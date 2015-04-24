@@ -1,0 +1,3 @@
+== Angular Rails Test Spike
+
+using 'bower-rails' with Bowerfile to manage dependencies on the Frontend
